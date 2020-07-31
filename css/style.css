@@ -1,0 +1,29 @@
+body
+{
+    margin-top:50px;
+    text-align:center;
+}
+#prevGuesses
+{
+    margin-top:30px;
+    font-size:20px;
+}
+#resetButton
+{
+    margin-top:20px;
+}
+.guess
+{
+    margin-top:10px;
+    font-size:20px;
+}
+.message
+{
+    color:black;
+}
+.high{color:blueviolet;}
+.low{color:orange;}
+.error{color:red;}
+.winner{color:green;}
+h1
+{padding-bottom:20px;}
